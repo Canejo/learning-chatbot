@@ -1,8 +1,8 @@
 # Learning Checklist Chatbot
 
-## Description
+## Descrição
 
-Criação automática de lstas de estudo do Github, como principais funcionalidades:
+Criação automática de listas de estudo do Github, com principais funcionalidades:
 
 1. Iniciar conversa com bot, recuperar contato e salvar usuário no mongo;
 2. Listar checklists cadastrados;
@@ -12,13 +12,13 @@ Criação automática de lstas de estudo do Github, como principais funcionalida
 6. Perguntar qual próximo item da checklist.
 
 
-## Installation
+## Instalação
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Executar o sistema
 
 ```bash
 # development
@@ -31,7 +31,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Testes
 
 ```bash
 # unit tests
@@ -44,6 +44,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## License
+## Licença
 
   [MIT licensed](LICENSE).
